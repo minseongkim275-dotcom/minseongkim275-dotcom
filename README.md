@@ -1,20 +1,4 @@
 
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 | Management Information Systems + Computer Engineering |
-| 🧠 | Data Structures & Algorithms |
-| 🖥️ | Backend Development |
-| 🗄️ | Database & Data Processing |
-| 🤖 | Machine Learning |
-| ☁️ | AWS & Deployment |
-
-</div>
-
----
 
 <h2 align="center">🛠️ Tech Stacks</h2>
 
