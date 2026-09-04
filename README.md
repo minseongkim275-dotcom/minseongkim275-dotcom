@@ -56,27 +56,3 @@
 </p>
 
 ---
-
-<h2 align="center">💻 Problem Solving</h2>
-
-<p align="center">
-
-Currently focusing on building a strong foundation in
-
-<br><br>
-
-**Data Structures · Algorithms · Recursion · Backtracking · Sorting**
-
-**Trees · Graphs · Dynamic Programming · Operating Systems**
-
-</p>
-
-<div align="center">
-
-> I don't want to simply memorize algorithms.
->
-> I want to understand **why they work and when to use them.**
-
-</div>
-
----
