@@ -1,14 +1,3 @@
-<div align="center">
-
-📚 Currently studying **Computer Science & Backend Engineering**
-
-🌱 Learning **Data Structures · Algorithms · Operating Systems · Networks**
-
-💻 Interested in **Backend Development & System Design**
-
-</div>
-
----
 
 <h2 align="center">🚀 About Me</h2>
 
